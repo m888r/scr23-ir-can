@@ -3,4 +3,5 @@
   (lib (name "ADM3051CRZ")(type "KiCad")(uri "${KIPRJMOD}/scr23-ir-can-library/ul_ADM3051CRZ/footprints.pretty")(options "")(descr ""))
   (lib (name "scr23-ir-can-library")(type "KiCad")(uri "${KIPRJMOD}/scr23-ir-can-library/")(options "")(descr ""))
   (lib (name "Molex_SolderRight")(type "KiCad")(uri "${KIPRJMOD}/scr23-ir-can-library/Molex SolderRight/Molex_SolderRight.pretty")(options "")(descr ""))
+  (lib (name "LQH44PH4R7MPRL")(type "KiCad")(uri "${KIPRJMOD}/scr23-ir-can-library/ul_LQH44PH4R7MPRL/footprints.pretty")(options "")(descr ""))
 )
