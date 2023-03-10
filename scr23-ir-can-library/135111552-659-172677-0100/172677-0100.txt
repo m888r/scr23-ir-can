@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06062020-058962";"";
+"REFERENCE";"172677-0100";"";
+"TraceParts.PartTitle";"PCB Terminal 24-22 Awg SolderRight";"";
+"TraceParts.InstanceId";"90-06062020-0589622N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"PCB Terminal 24-22 Awg SolderRight";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-06062020-058962";"";
