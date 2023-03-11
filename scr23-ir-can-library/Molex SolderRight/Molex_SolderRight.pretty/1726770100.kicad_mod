@@ -20,7 +20,7 @@
   (fp_line (start 5.35 2.9) (end -4.65 2.9)
     (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp b11ed348-9403-4ae5-b2ce-71479f24b237))
   (pad "1" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 4fa9088e-e05a-4522-b7a4-962750c34201))
-  (pad "2" thru_hole circle (at 1.9 0) (size 1.524 1.524) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp e3c7fc3a-f0e4-4bbf-b66f-928a2836d93b))
+  (pad "1" thru_hole circle (at 1.9 0) (size 1.524 1.524) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp e3c7fc3a-f0e4-4bbf-b66f-928a2836d93b))
   (model "${KIPRJMOD}/scr23-ir-can-library/Molex SolderRight/172677-0100.stp"
     (offset (xyz 0.95 0 1))
     (scale (xyz 1 1 1))
