@@ -1691,5 +1691,8 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cfed63a6-eaec-4974-9ece-f7bf73e7d41e))
   (gr_line (start 93.5228 116.839999) (end 105.055846 116.839999)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e4cbd6f9-d5a9-4c38-aa83-5532956b1320))
+  (gr_text "NOTE: Let's maybe make the debug connector disconnectable somehow? Maybe\nbreak off board to board connector, or I could make a little adapter that\ngoes to a JST connector or something that could be on that side of the board\nmuch more compactly?" (at 79.5528 92.0496) (layer "User.1") (tstamp 2658fe72-9d97-45f4-956b-aa2b00be4578)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
 
 )
