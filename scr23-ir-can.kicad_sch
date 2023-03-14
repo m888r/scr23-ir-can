@@ -1594,7 +1594,7 @@
     (property "Value" "Conn_ST_STDC14" (at 161.29 45.085 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical" (at 173.355 43.18 0)
+    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Horizontal" (at 173.355 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.st.com/content/ccc/resource/technical/document/user_manual/group1/99/49/91/b6/b2/3a/46/e5/DM00526767/files/DM00526767.pdf/jcr:content/translations/en.DM00526767.pdf" (at 164.465 74.93 90)
